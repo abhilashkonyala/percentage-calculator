@@ -1,0 +1,54 @@
+
+body  {
+  background-color: #ceffa6;
+  padding-top: 8%;
+}
+
+
+	h1{
+	text-align: center;
+	color: #21042c;
+	font-size: 55px;
+	width: 100%;
+}
+p{
+	text-align: center;
+	font-size: 33px;
+}
+
+#formid{
+display: block;
+text-align: center;
+font-size: 35px;
+}
+
+#result{
+	text-align: center;
+	font-size: 45px;
+
+}
+
+
+input[type=text], select {
+  width: 20%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 2px solid;
+  border-radius: 8px;
+    font-size: 20px;
+  box-sizing: border-box;
+}
+
+input[type=submit] {
+  width: 45%;
+  background-color: #0c1a47;
+  color: white;
+  padding: 10px 15px;
+  margin: 5px 0;
+  border: none;
+  border-radius: 25px;
+  font-size: 20px;
+  cursor: pointer;
+}
+
